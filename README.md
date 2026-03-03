@@ -1,6 +1,6 @@
 # VisCenter
 
-一个用于 Adobe Illustrator 的 CEP 插件，帮助你集中管理电脑里的 VIS Guidelines 文件。
+一个用于 Adobe Illustrator 的插件，帮助你集中管理电脑里的 VIS Guidelines 文件。
 
 ---
 
